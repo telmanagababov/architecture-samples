@@ -1,0 +1,15 @@
+{
+  "name": "tax-calculator",
+  "version": "1.0.0",
+  "description": "* architecture: MVC\r * syntax: JS ES6\r * code style: [airbnb](https://github.com/airbnb/javascript)\r * view template [handlebars](http://handlebarsjs.com/)",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "handlebars": "^4.0.6",
+    "traceur": "0.0.111"
+  }
+}
